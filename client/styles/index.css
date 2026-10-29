@@ -1,0 +1,18 @@
+#head{
+    background-color: rgb(188, 241, 229);    
+    padding: 1rem;
+}
+
+#head > p {
+    font-size: 2rem;
+    display:inline;
+    cursor:pointer;
+    border-bottom: 2px solid transparent;
+    box-sizing: border-box;
+    transition: .5s ease;
+    color: rgb(48, 48, 48);
+}
+
+#head > p:hover {
+    border-bottom: 2px solid black;
+}
