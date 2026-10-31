@@ -4,7 +4,7 @@ const Catequista = () => {
   return (
     <section className='w-full bg-fundo-principal'>
       <div className='p-5 m-5'>
-        <h1 className='text-zinc-700 text-3xl'>Cadastro catequista</h1>
+        <h1 className='text-zinc-700 text-3xl'>Cadastro Catequista</h1>
         <p className='text-zinc-500 text-[18px]'>Cadastre o formador com as informações abaixo.</p>
 
         <form>
